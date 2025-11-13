@@ -1,5 +1,6 @@
 # Modelos y archivos grandes
 *.safetensors
+!qwen_fashionedit (1).safetensors
 *.ckpt
 *.pt
 *.pth
